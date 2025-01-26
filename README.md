@@ -32,9 +32,9 @@ The project aims to find the sales and customer spending behavior between the ye
 
 ### Exploratory Data Analysis
 Performed some exploratory data analysis to find some information about key questions like
-- What are the total sales and percentage change in sales in both years?
-- What are the total profit and percentage change in profit in both years?
-- What are the total quantity sold and percentage change in quantity sold in both years?
+- What are the total sales and percentage change in sales from the previous years?
+- What are the total profit and percentage change in profit from the previous years?
+- What are the total quantity sold and percentage change in quantity sold from the previous years?
 - What are the total sales per customer?
 - Who are the top 10 customers according to money spent?
 
