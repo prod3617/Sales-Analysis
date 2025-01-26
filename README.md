@@ -45,6 +45,7 @@ To find the answer to the key questions, I have created some calculated fields i
 ```
 
 ### Results/Findings
+[Dashboard View](https://public.tableau.com/app/profile/manjeet.kumar8420/viz/TableauProject_17378901457220/SalesDashboard)
 - Sales and Profit are increasing every year except the year 2021. 
 - Sales and Quantity sold are high in November but the profit earned from the sale is similar to the previous year's profit even though sales surge in November.
 - The company registers the highest profit difference in March.
