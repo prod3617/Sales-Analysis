@@ -49,11 +49,11 @@ To find the answer to the key questions, I have created some calculated fields i
 - The phone sales have increased the most from the previous year.
 - Most of the customers are ordering either 1 time or 2 time.
 
-  ### Recommendations
-  - Sales are low from April to June so the company needs to promote their product more in these months and come up with different offers so the sales increase in these months.
-  - Copiers have provided the highest profit in the category so the company should focus on selling the product more.
-  - Phone sales have increased the most so the company should push the ad campaign and offers towards it to increase more sales of it.
-  - The frequency of customers placing orders is 1 or 2 times so the company should come up with different offers so that the customer can re-visit again.
+### Recommendations
+- Sales are low from April to June so the company needs to promote their product more in these months and come up with different offers so the sales increase in these months.
+- Copiers have provided the highest profit in the category so the company should focus on selling the product more.
+- Phone sales have increased the most so the company should push the ad campaign and offers towards it to increase more sales of it.
+- The frequency of customers placing orders is 1 or 2 times so the company should come up with different offers so that the customer can re-visit again.
    
 
 
